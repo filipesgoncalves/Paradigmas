@@ -56,3 +56,6 @@ Java: orientado a objetos
 JavaScript: multiparadigma
 Python: multiparadigma
 Scala: funcional + orientado a objetos
+
+
+cuidado ai varao se ligue
